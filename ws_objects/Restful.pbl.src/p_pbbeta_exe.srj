@@ -1,0 +1,22 @@
+﻿$PBExportHeader$p_pbbeta_exe.srj
+$PBExportComments$Generated Application Executable Project
+EXE:pbbeta.exe,pbbeta.pbr,0,1,1
+CMP:1,0,0,2,2,0,1
+COM:Appeon
+DES:Appeon Product File
+CPY:Copyright
+PRD:PowerBuilder Enterprise Series
+PVS:1.1.1.1
+PVN:3,3,3,3
+FVS:2.2.2.2
+FVN:4,4,4,4
+MAN:2,highestAvailable,1
+PBD:pbbeta.pbl,,1
+OBJ:D:\Users\brucearmstrong\Downloads\pbbeta\pbbeta.pbl,w_postgresql,w
+OBJ:D:\Users\brucearmstrong\Downloads\pbbeta\pbbeta.pbl,w_main,w
+OBJ:D:\Users\brucearmstrong\Downloads\pbbeta\pbbeta.pbl,pbbeta,a
+OBJ:D:\Users\brucearmstrong\Downloads\pbbeta\pbbeta.pbl,d_rest_call,d
+OBJ:D:\Users\brucearmstrong\Downloads\pbbeta\pbbeta.pbl,w_compiler,w
+OBJ:D:\Users\brucearmstrong\Downloads\pbbeta\pbbeta.pbl,w_pdf,w
+OBJ:D:\Users\brucearmstrong\Downloads\pbbeta\pbbeta.pbl,w_rest,w
+OBJ:D:\Users\brucearmstrong\Downloads\pbbeta\pbbeta.pbl,d_test_new,d
